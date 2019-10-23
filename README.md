@@ -1,2 +1,2 @@
-# C-CPP
-C/CPP programing
+# C
+C language
