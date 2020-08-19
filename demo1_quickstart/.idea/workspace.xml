@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9fa26b1-60f6-4038-b6d9-c430329e7374" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../demo2_webapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2_webapp/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo2_webapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo2_webapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14746094" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="demo1_quickstart []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -70,6 +72,7 @@
       <updated>1597728532919</updated>
       <workItem from="1597728534384" duration="156000" />
       <workItem from="1597743627259" duration="20000" />
+      <workItem from="1597804753833" duration="119000" />
     </task>
     <servers />
   </component>
@@ -97,5 +100,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1597728691958" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1597804871465">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1597804871465" />
   </component>
 </project>
